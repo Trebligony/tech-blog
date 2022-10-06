@@ -1,0 +1,11 @@
+{{#each this}}
+<div class="card comment-box">
+    <div class="card-body comment-text">
+        <p class="card-text card-text-styling">
+            {{comment}}
+        </p>
+        <p class="card-text card-text-styling comment-details">Comment by {{user.name}}, posted on {{format_date date_created}}</p>
+        <button type="button" class="btn delete-btn" data-id="{{id}}">Delete comment</button>
+    </div>
+</div>
+{{/each}}

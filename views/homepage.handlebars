@@ -1,0 +1,16 @@
+<!-- Loop over each post in the post array -->
+{{#each posts as |post|}}
+<div class="card card-styling">
+    <div class="card-body-styling">
+        <div class="card-title card-title-styling">
+            <h2>
+                <a href="/post/{{post.id}}">{{post.title}}</a>
+            </h2>
+                <p>
+                    Posted by {{post.user.name}} on {{format_date post.date_created}}
+                </p>
+        </div>
+        <p class="card-text card-text-styling">{{post.contents}}</p>
+    </div>
+</div>
+{{/each}}

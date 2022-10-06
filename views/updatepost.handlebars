@@ -1,0 +1,13 @@
+<form class="new-post form-style">
+    <div class="mb-3">
+        <label for="post-title" class="form-label input-title">Title</label>
+        <textarea class="form-control" id="post-title">{{title}}</textarea>
+    </div>
+    <div class="mb-3">
+        <label for="post-contents" class="form-label input-title">Post contents</label>
+        <textarea class="form-control" id="post-contents" rows="5">{{contents}}</textarea>
+    </div>
+    <button type="submit" class="btn btn-styling" data-id="{{id}}" id="update-btn">Update</button>
+</form>
+
+<script src="/js/update-post.js"></script>

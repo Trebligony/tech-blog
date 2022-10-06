@@ -1,0 +1,187 @@
+:root {
+    --green: #3d5467;
+    --white: #fff;
+    --hover: #db5461;
+    --main-font-family: 'Lato', sans-serif;
+    --title-font-family:  'Bungee Spice', cursive;
+    --heading-font-family:  'Roboto', sans-serif;
+}
+
+/* Element selector styling */
+
+header {
+    padding: 10px;
+    padding-left: 40px;
+    background-color: var(--green);
+}
+
+h1 a {
+    font-size: 60px;
+    font-family: var(--heading-font-family);
+    text-decoration: none;
+    color: var(--white);
+    text-decoration: none;
+}
+
+h2 a {
+    color: var(--white);
+}
+
+li a {
+    display: block;
+    padding: 10px;
+    font-size: 20px;
+    font-family: var(--main-font-family);
+    text-decoration: none;
+    color: var(--white);
+}
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    background-color: var(--green);
+    text-align: center;
+}
+
+footer p {
+    color: var(--white);
+    font-family: var(--main-font-family);
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+/* Pseudo styling */
+a:hover {
+    color: var(--hover);
+    text-decoration: none;
+}
+
+.btn-styling:hover {
+    color: var(--hover);
+    background-color: #222B33;
+}
+
+.post-link:hover {
+    color: var(--hover);
+}
+
+/* Class styling */
+.navbar-styling {
+    margin: 20px;
+}
+
+.card-styling {
+    margin: 40px;
+    width: auto;
+    border: 5px solid var(--green);
+}
+
+.card-title-styling {
+    background-color: var(--green);
+    padding: 10px;
+    color: var(--white);
+    font-family: var(--heading-font-family);
+}
+
+.card-title-styling p {
+    font-family: var(--main-font-family);
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+.card-text-styling {
+    padding: 10px;
+    font-family: var(--main-font-family);
+    font-size: 16px;
+}
+
+.dashboard-post {
+    margin: 20px 40px 20px 40px;
+    background-color: var(--green);
+    border: 5px solid var(--green);
+    color: var(--white);
+}
+
+.dashboard-card-title {
+    margin: 0;
+    font-family: var(--heading-font-family);
+}
+
+.post-link {
+    text-decoration: none;
+    color: var(--white);
+}
+
+.dashboard-card-text {
+    margin: 0;
+    font-size: 18px;
+    font-family: var(--main-font-family);
+}
+
+.form-style {
+    margin: 20px 40px;
+}
+
+.input-title {
+    font-size: 18px;
+    font-family: var(--main-font-family);
+}
+
+.row-adjust {
+    --bs-gutter-x: 0;
+}
+
+.login-heading {
+    margin: 20px 40px;
+}
+
+.btn-styling {
+    background-color: var(--green);
+    color: var(--white);
+    font-family: var(--main-font-family);
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px 0 70px 0;
+}
+
+.delete-btn {
+    background-color: var(--white);
+    color: var(--green);
+    margin: 20px 0 10px 0;
+}
+
+.comment-box {
+    margin: 40px;
+    border: 5px solid var(--green);
+}
+
+.comment-text {
+    margin-bottom: 0;
+}
+
+.comment-details {
+    font-weight: bolder;
+}
+
+
+/* id styling */
+#welcome-text {
+    font-size: 35px;
+    font-family: var(--main-font-family);
+    margin: 20px 40px 20px 40px;
+}
+
+#post-list-text {
+    font-size: 20px;
+    font-family: var(--main-font-family);
+    font-weight: bolder;
+    margin: 0 40px 0 40px;
+}
+
+#blogTitle {
+    font-family: var(--title-font-family);
+    font-size: 80px;
+    text-decoration: none;
+}

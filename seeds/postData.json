@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Web Browsers",
+        "contents": "The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly. A browser does not display the HTML tags, but uses them to determine how to display the document:"
+    },
+    {
+        "title": "Inspect an HTML Element",
+        "contents": "Right-click on an element (or a blank area), and choose Inspect or Inspect Element to see what elements are made up of (you will see both the HTML and the CSS). You can also edit the HTML or CSS on-the-fly in the Elements or Styles panel that opens."
+    },
+    {
+        "title": "HTML is Not Case Sensitive",
+        "contents": "The HTML standard does not require lowercase tags, but W3C recommends lowercase in HTML, and demands lowercase for stricter document types like XHTML."
+    }
+]
