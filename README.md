@@ -134,12 +134,12 @@ can add, update, or delete comments.
 
 
 
+<img src="./assets/images/tech_new_post.png">
+
+
+
 
 <img src="./assets/images/tech_dash_board.png">
-
-
-
-<img src="./assets/images/tech_new_post.png">
 
 
 
