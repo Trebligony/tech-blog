@@ -152,6 +152,11 @@ can add, update, or delete comments.
 
 
 
+<img src="./assets/images/tech_post_page.png">
+
+
+
+
 
 ### App Github Repository Link
 
