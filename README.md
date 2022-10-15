@@ -139,6 +139,10 @@ can add, update, or delete comments.
 
 
 
+<img src="./assets/images/tech_new_post.png">
+
+
+
 
 
 
