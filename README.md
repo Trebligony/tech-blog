@@ -134,6 +134,16 @@ can add, update, or delete comments.
 
 
 
+
+<img src="./assets/images/tech_dash_board.png">
+
+
+
+
+
+
+
+
 ### App Github Repository Link
 
 https://github.com/Trebligony/tech-blog
