@@ -148,6 +148,8 @@ can add, update, or delete comments.
 
 
 
+<img src="./assets/images/payment_validation_page.png">
+
 
 
 
