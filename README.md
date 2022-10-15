@@ -134,6 +134,12 @@ can add, update, or delete comments.
 
 
 
+
+<img src="./assets/images/tech_create_page.png">
+
+
+
+
 <img src="./assets/images/tech_new_post.png">
 
 
@@ -143,8 +149,6 @@ can add, update, or delete comments.
 
 
 
-
-<img src="./assets/images/tech_create_page.png">
 
 
 
