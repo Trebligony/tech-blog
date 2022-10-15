@@ -151,13 +151,15 @@ can add, update, or delete comments.
 
 
 
-
 <img src="./assets/images/payment_validation_page.png">
 
 
 
 <img src="./assets/images/tech_post_page.png">
 
+
+
+<img src="./assets/images/tech_add_comment.png">
 
 
 
